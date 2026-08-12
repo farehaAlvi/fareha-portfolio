@@ -18,7 +18,7 @@ const projects = [
     description: 'Responsive movie discovery application with dynamic TMDB data, routing and Firebase authentication.',
     highlights: ['TMDB API', 'React Router', 'Firebase Auth', 'Responsive UI'],
     live: 'https://netflix-gpt-gilt-nu.vercel.app/',
-    code: 'https://github.com/fareha0402/netflix-gpt'
+    code: 'https://github.com/farehaAlvi/netflix-gpt'
   },
   {
     title: 'Food Ordering App',
@@ -67,7 +67,7 @@ function App() {
             </div>
             <div className="socials">
               <a href="https://github.com/fareha0402" target="_blank" rel="noreferrer"><Github size={19}/> GitHub</a>
-              <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"><Linkedin size={19}/> LinkedIn</a>
+              <a href="https://www.linkedin.com/in/fareha-sameet/" target="_blank" rel="noreferrer"><Linkedin size={19}/> LinkedIn</a>
             </div>
           </div>
           <div className="hero-card">

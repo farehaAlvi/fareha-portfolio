@@ -24,7 +24,7 @@ The production files are generated in `dist/`.
 This project is ready for Vercel, Netlify or GitHub Pages.
 
 ### Before publishing
-- Replace the LinkedIn URL in `src/main.jsx` with your actual LinkedIn profile.
+- LinkedIn is configured as `https://www.linkedin.com/in/fareha-sameet/`.
 - Add your final PDF resume as `public/Fareha_Sameet_Senior_Frontend_Engineer_Resume.pdf`.
 - Replace `#` on the Food Ordering project with its live/demo URL if available.
 - Review skill claims and keep only technologies you are comfortable discussing in interviews.
